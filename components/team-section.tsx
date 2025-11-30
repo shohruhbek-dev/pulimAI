@@ -23,7 +23,7 @@ const teamMembers = [
     name: "Shoxrux Tojimahammtov",
     role: "Backend Developer",
     skills: ["Python", "Django", "REST APIs", "Databases"],
-    image: "/backend.PNG",
+    image: "/backend.png",
     linkedin: "https://www.linkedin.com/in/shoxruxbek-tojimahammatov-3a8321389?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
     github: "https://github.com/shoxrux1905",
   },
