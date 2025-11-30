@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/dev
+
+# Static export output
+out/
+
+# Environment variables
+.env*
+
+# Customaddd build output
+dist/
+
+# Test coverage
+coverage/
+node_modules
