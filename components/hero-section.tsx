@@ -23,6 +23,24 @@ export function HeroSection() {
 
         
       </div>
+      <div className="w-full flex justify-center mt-6">
+  <a
+    href="/demo"
+    style={{
+      padding: "14px 26px",
+      background: "linear-gradient(90deg, #4f46e5, #6366f1)",
+      color: "white",
+      borderRadius: "10px",
+      fontSize: "17px",
+      fontWeight: "600",
+      textDecoration: "none",
+      boxShadow: "0 4px 14px rgba(99,102,241,0.4)",
+    }}
+  >
+    Demo'ga o'tish
+  </a>
+</div>
+
     </section>
   );
 }
